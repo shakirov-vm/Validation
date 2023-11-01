@@ -1,0 +1,59 @@
+(This is a comment)
+
+((This is a comment too))
+
+((This is a comment first)(This is a comment second))
+
+())This isn't a comment(
+
+(()) (corner case)
+
+(This is 
+a comment)
+
+(This 
+is 
+a 
+comment)
+
+var is 0
+a var is nothing
+an var is nowhere
+the var is nobody
+my var is gone
+your var is null
+our var is noThing (Spec: Rockstar keywords and variable names are all case-insensitive)
+
+var is ok
+a var is yes
+an var is ok
+the var is right
+my var is wrong
+your var is no
+our var is lies (Spec: Rockstar keywords and variable names are all case-insensitive)
+
+
+var is 1
+var is yes
+var is ok
+var is right
+var is wrong
+var is no
+var is lies
+
+
+(Spec: Rockstar keywords and variable names are all case-insensitive:)
+an var is noWhere
+the var is noBoDy
+your var is NO 
+our var is nULL
+
+(But)
+var is 1 (Spec: Rockstar keywords and variable names are all case-insensitive)
+a var is null (Spec: Rockstar keywords and variable names are all case-insensitive)
+var is null (Spec: Rockstar keywords and variable names are all case-insensitive)
+
+an str is string
+
+(invalid case)
+DOCTOR feelgood
